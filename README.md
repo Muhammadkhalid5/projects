@@ -1,1 +1,1 @@
-# Algorith Project
+# Algorithm Project
